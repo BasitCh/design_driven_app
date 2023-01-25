@@ -30,13 +30,6 @@ class _SplashState extends State<Splash> {
         mainAxisAlignment: MainAxisAlignment.end,
         crossAxisAlignment: CrossAxisAlignment.center,
         children: <Widget>[
-          Align(
-            alignment: Alignment.center,
-            child: SvgPicture.asset(
-              BlackBullIcons.blackBullLogo,
-              width: 220,
-            ),
-          ),
           350.verticalGap,
           Container(
             margin: const EdgeInsets.only(bottom: 20.0),
