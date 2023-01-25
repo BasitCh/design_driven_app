@@ -1,0 +1,97 @@
+{
+    "login": {
+        "title": "Login",
+        "email": "Email Address",
+        "password": "Password",
+        "mainHeading": "Log into BlackBull Markets",
+        "google": "Google",
+        "apple": "Apple",
+        "checkBoxText": "Remember me",
+        "or" : " OR",
+        "noClientYet": "Not a client yet?",
+        "signupFor": "Sign up for a? ",
+        "live": "Live",
+        "demo": "Demo",
+        "share": "Share",
+        "tradingAccount": "Trading account",
+        "facebook": "Facebook"
+    },
+    "accounts": {
+        "mainHeading": "Create live account",
+        "createAnAccount": "Create an account",
+        "accounts": "Account(s)",
+        "live": "Live",
+        "demo": "Demo",
+        "platformType": "Platform Type",
+        "currency": "Currency",
+        "accountType": "Account Type",
+        "leverage": "Leverage",
+        "nickname": "Nickname (Optional)",
+        "submit": "Submit",
+        "platformTypeList": {
+            "selectPlatformType": "Platform Type",
+            "tradingView":"TradingView",
+            "metaTrader4": "MetaTrader 4",
+            "metaTrader5": "MetaTrader 5"
+        },
+        "currencyList": {
+            "selectCurrency": "Currency",
+            "usd":"USD",
+            "eur":"EUR",
+            "gpb":"GBP",
+            "aud":"AUD",
+            "nzd":"NZD",
+            "sgd":"SGD",
+            "cad":"CAD",
+            "jpy": "JPY"
+        },
+        "accountTypeList": {
+            "selectAccountType": "Account Type",
+            "standard": "Standard",
+            "prime":"Prime",
+            "islamicStandard":"Islamic Standard",
+            "islamicPrime":"Islamic Prime"
+        },
+        "leverageList": {
+            "selectLeverage": "Leverage",
+            "1":"1",
+            "33":"33",
+            "50":"50",
+            "100":"100",
+            "200":"200",
+            "300": "300",
+            "400": "400",
+            "500": "500"
+        }
+
+    },
+    "changeLanguage": {
+        "changeLanguageText": "تغيير اللغة",
+        "search": "بحث",
+        "languageList": {
+            "english": "English",
+            "arabic": "عربي",
+            "german": "ألمانية",
+            "spanish": "الأسبانية",
+            "french": "الفرنسية",
+            "italian": "Italian",
+            "japanese": "Japanese",
+            "korean": "Korean",
+            "portuguese": "Portuguese",
+            "thai": "Thai",
+            "chinese": "Chinese",
+            "vietnamese": "Vietnamese"
+        }
+    },
+    "splash": {
+        "loadingApp": "Loading app..."
+    },
+    "wallet": {
+      "title": "My Wallet",
+        "subtitle": "Add, Withdraw funds, Internal transfer \n& wallet history."
+    },
+    "quiz": {
+        "quiz_success_title": "Successful",
+        "quiz_success_description": "You've successfully completed the quiz. Please proceed with your application in order to open your live trading account."
+    }
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "139484663598",
+    "project_id": "blackbull-markets",
+    "storage_bucket": "blackbull-markets.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139484663598:android:c959fa1aecd77ec6c8f4bf",
+        "android_client_info": {
+          "package_name": "com.blackbullmarkets.black_bull_markets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139484663598-gbgflhk3jrm0ce58pua8ltdj98ep32tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXO-qKqSwq6Vu_mAcc-CJAtpEcVW0VxKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139484663598-gbgflhk3jrm0ce58pua8ltdj98ep32tn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

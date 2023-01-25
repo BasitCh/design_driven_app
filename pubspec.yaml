@@ -1,0 +1,84 @@
+name: black_bull_markets
+description: A new Flutter project.
+
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.5 <3.0.0"
+
+dependencies:
+  analyzer: ^5.2.0
+  another_transformer_page_view: ^2.0.1
+  beamer: ^1.5.0
+  bloc_test: ^9.1.0
+  carousel_slider: ^4.2.1
+  connectivity_plus: ^3.0.2
+  country_calling_code_picker: ^2.0.1
+  country_currency_pickers: ^2.0.0
+  cupertino_icons: ^1.0.5
+  dio: ^4.0.6
+  dio_http2_adapter: ^2.0.0
+  dotted_border: ^2.0.0+3
+  easy_localization: ^3.0.1
+  easy_sidemenu: ^0.3.1
+  equatable: ^2.0.3
+  firebase_auth: ^4.2.3
+  firebase_core: ^2.4.0
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.1
+  flutter_dotenv: ^5.0.2
+  flutter_facebook_auth: ^5.0.7
+  flutter_form_builder: ^7.6.0
+  flutter_gen: ^5.1.0+1
+  flutter_screenutil: ^5.4.0+1
+  flutter_svg: ^1.1.6
+  fluttertoast: ^8.1.2
+  form_builder_validators: ^8.3.0
+  formz: ^0.4.1
+  fpdart: ^0.3.0
+  get_it: ^7.2.0
+  google_fonts: ^3.0.1
+  google_sign_in: ^5.4.2
+  http:
+  hydrated_bloc: ^8.1.0
+  image_picker: ^0.8.6
+  json_annotation: ^4.7.0
+  logger: any
+  logging: ^1.0.2
+  path: ^1.8.1
+  retrofit: any
+  shared_preferences: ^2.0.15
+  shimmer: ^2.0.0
+  url_launcher: ^6.1.5
+
+dependency_overrides:
+  match: ^0.4.1
+  test_api: 0.4.16
+
+dev_dependencies:
+  build_runner: ^2.3.3
+  flutter_lints: ^2.0.1
+  flutter_test:
+    sdk: flutter
+  freezed: ^2.3.2
+  http_mock_adapter: ^0.3.3
+  json_serializable: ^6.5.4
+  mockito: ^5.3.2
+  mocktail: ^0.3.0
+  retrofit_generator: ^4.2.0
+  test: ^1.22.0
+
+flutter:
+  fonts:
+    - family: Mont
+      fonts:
+        - asset: assets/fonts/Mont-Regular.otf
+  uses-material-design: true
+  assets:
+    - assets/icons/
+    - assets/icons/menu_icons/
+    - assets/images/
+    - assets/images/flags/
+    - assets/translations/

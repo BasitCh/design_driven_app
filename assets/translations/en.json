@@ -1,0 +1,244 @@
+{
+    "login": {
+        "title": "Login",
+        "email": "Email Address",
+        "password": "Password",
+        "mainHeading": "Log into BlackBull Markets",
+        "google": "Google",
+        "apple": "Apple",
+        "checkBoxText": "Remember me",
+        "or": " OR",
+        "noClientYet": "Not a client yet?",
+        "signupFor": "Sign up for a? ",
+        "live": "Live",
+        "demo": "Demo",
+        "share": "Share",
+        "tradingAccount": "Trading account",
+        "facebook": "Facebook",
+        "text": {
+            "invalid_email_password": "Invalid email or password."
+        }
+    },
+    "accounts": {
+        "mainHeading": "Create live account",
+        "createAnAccount": "Create an account",
+        "accounts": "Account(s)",
+        "live": "Live",
+        "demo": "Demo",
+        "platformType": "Platform Type",
+        "currency": "Currency",
+        "accountType": "Account Type",
+        "leverage": "Leverage",
+        "nickname": "Nickname (Optional)",
+        "submit": "Submit",
+        "platformTypeList": {
+            "selectPlatformType": "Platform Type",
+            "tradingView": "TradingView",
+            "metaTrader4": "MetaTrader 4",
+            "metaTrader5": "MetaTrader 5"
+        },
+        "currencyList": {
+            "selectCurrency": "Currency",
+            "usd": "USD",
+            "eur": "EUR",
+            "gpb": "GBP",
+            "aud": "AUD",
+            "nzd": "NZD",
+            "sgd": "SGD",
+            "cad": "CAD",
+            "jpy": "JPY"
+        },
+        "accountTypeList": {
+            "selectAccountType": "Account Type",
+            "standard": "Standard",
+            "prime": "Prime",
+            "islamicStandard": "Islamic Standard",
+            "islamicPrime": "Islamic Prime"
+        },
+        "leverageList": {
+            "selectLeverage": "Leverage",
+            "1": "1",
+            "33": "33",
+            "50": "50",
+            "100": "100",
+            "200": "200",
+            "300": "300",
+            "400": "400",
+            "500": "500"
+        }
+    },
+    "changeLanguage": {
+        "changeLanguageText": "Change Language",
+        "search": "Search",
+        "languageList": {
+            "english": "English",
+            "arabic": "Arabic",
+            "german": "German",
+            "spanish": "Spanish",
+            "french": "French",
+            "italian": "Italian",
+            "japanese": "Japanese",
+            "korean": "Korean",
+            "portuguese": "Portuguese",
+            "thai": "Thai",
+            "chinese": "Chinese",
+            "vietnamese": "Vietnamese"
+        }
+    },
+    "splash": {
+        "loadingApp": "Loading app..."
+    },
+    "wallet": {
+        "title": "My Wallet",
+        "subtitle": "Add, Withdraw funds, Internal transfer \n& wallet history."
+    },
+    "my_wallet": {
+        "title": "My Wallet > Wallet Dashboard",
+        "balance": "Balance\n",
+        "name": "Name",
+        "currency": "Currency",
+        "add_funds": "Add Funds",
+        "internal_transfer": "Internal Transfer"
+    },
+    "create_wallet": {
+        "title": "CREATE NEW WALLET",
+        "new_wallet": "New Wallet",
+        "nickname": "Nickname",
+        "select_currency": "Select currency",
+        "button": "CREATE WALLET"
+    },
+    "applications": {
+        "mainHeading": "Applications",
+        "subHeading": "Apply for any trading account \nthat is suitable for you. ",
+        "success": "Success",
+        "successMessage": "You have already \ncompleted the application process",
+        "submitted": "Submitted",
+        "applicationType": {
+            "forexAndCfds": "Forex & CFDs Application",
+            "shareTrading": "Share Trading Application",
+            "partners": "Partners Application",
+            "mam/pamm": "MAM/PAMM Application",
+            "investorAccount": "Investor Account Application"
+        }
+    },
+    "menu": {
+        "applications": "Applications",
+        "accounts": "Accounts",
+        "myWallet": "My Wallet",
+        "shareTrading": "Share Trading Account",
+        "partners": "Partners",
+        "leadFollow": "Lead and Follow",
+        "walletDeposit": "Wallet Deposit",
+        "mainSite": "Main Site",
+        "contact": "Contact",
+        "logout": "Log out",
+        "deleteAccount": "Request to delete account",
+        "disclaimer": "Disclaimer",
+        "termsConditions": "Terms & Conditions"
+    },
+    "internal_transfer": {
+        "title": "Internal Transfer",
+        "heading": "Transfer Funds",
+        "subheading": "You can withdraw funds any time \nfrom any of your wallets.",
+        "button_text": "CONFIRM TRANSFERS",
+        "check": "Confirm the internal transfer. ",
+        "success_heading": "Funds have been transferred",
+        "success_description": "Your funds of 100 NZD has been transferred to account ”Oliver” from account ”Jack”",
+        "make_another_transfer": "MAKE ANOTHER TRANSFER"
+    },
+    "signUp": {
+        "success": "Success",
+        "successMessage": "Account created successfully",
+        "personalDetails": "Personal Details",
+        "getStartedText": "Confirm your password and details to get started.",
+        "soonRedirectText": "soon you will be redirected .",
+        "loading": "Loading"
+    },
+    "notifications": {
+        "mainHeading": "Turn on \npush notifications",
+        "subHeading": "Could we have your permission to send notifications, please? Our app uses notifications to remind you if we need more information to serve you and to help with your experience.",
+        "notNowText": "Not now, thank you",
+        "buttonText": "Allow Notifications"
+    },
+    "shareTrading": {
+        "cash": "Cash",
+        "margin": "Margin"
+    },
+    "quiz": {
+        "quiz_success_title": "Successful",
+        "quiz_success_description": "You've successfully completed the quiz. Please proceed with your application in order to open your live trading account.",
+        "continue": "Continue",
+        "view_answers": "View Answers"
+    },
+    "application": {
+        "partners": "Partners",
+        "partners_step1": "Partners - Application Step 1",
+        "partners_step2": "Partners - Application Step 2",
+        "personal_details": "Personal Details",
+        "personal_details_name": "Select account type, Enter first name, middle name & last name.",
+        "personal_details_address": "Enter your address, state, city & zipcode",
+        "personal_details_country": "Share phone number and country details.",
+        "personal_details_step2_description": "Share the partner's details\nSelect the most suitable options.",
+        "partner_account_type": "Partner account type:",
+        "name_email": "Name & Email:",
+        "address": "Address:",
+        "phone_country_dob": "Phone, Country & DOB:",
+        "which_other_brokers": "Which other brokers are you currently working with?",
+        "current_broker": "Current Broker",
+        "what_region": "What region will most of your clients come from?",
+        "how_may_clients": "How many clients will you refer each month?",
+        "what_type_business": "What type of business are you opening?",
+        "main_refferal_site": "What is your main referral website URL or channel?",
+        "brief_description_business": "Please give a brief description of your business.",
+        "provide_info": "Provide information",
+        "provide_info_desc": "Provide information regarding how will you publicly represent BlackBull Markets. Specifically, please provide links to all of the websites or social media accounts or other channels you will use.",
+        "type_url": "Type URL",
+        "description": "Description"
+    },
+    "buttons": {
+        "previous": "Previous",
+        "next": "Next",
+        "submit": "Submit",
+        "go_home": "Go to home",
+        "go_accounts": "Go to accounts"
+    },
+    "add_funds": {
+        "title1": "Add Funds > Select Wallet",
+        "title2": "Add Funds >  Funding Method",
+        "title3": "Add Funds > Amount",
+        "title4": "Add Funds > Confirmation",
+        "headline1": "Add funds",
+        "subHeadline1": "Select Wallet",
+        "description1": "Add the amount as you want. \nAmount will be in selected currency.",
+        "next": "NEXT",
+        "previous": "PREVIOUS",
+        "funding_title": "Funding Method",
+        "funding_subtitle": "Select any of the funding methods\nthat are already defined.",
+        "amount_title": "Amount",
+        "amount_subtitle": "Add the amount as you want. \nAmount will be in selected currency.",
+        "amount_minus": "Amount minus fee",
+        "amount_fee": "Fee",
+        "fee": "0% Fee",
+        "credit_debit": "Credit/Debit Card",
+        "credit_detail": "Instant payments \nusing credit and debit cards\n",
+        "card_availability": "24/7 Vary",
+        "other_availability": "24/7 Instant",
+        "astropay": "AstroPay",
+        "astro_detail": "Create your Astro Pay account now. Use the most popular payment methods in your \ncountry and start paying online in seconds.\n",
+        "crypto": "Crypto Payments",
+        "crypto_detail": "A cryptocurrency payment gateway that converts better.\n",
+        "error": "Error",
+        "error_detail": "You do not have sufficient funds in your account. Please transfer some funds ",
+        "confirmation_title": "Confirmation",
+        "confirmation_subtitle": "Please verify that the payment details \nare correct and satisfied with them.",
+        "payment_method": "Payment Method",
+        "order_ref": "Order Reference",
+        "my_wallets": "MY WALLETS",
+        "funds_added_description": "You can now get started with the trading.",
+        "info_heading": "Info",
+        "info_desc": "Payment Requested! Shortly you will be redirected!",
+        "loading": "Loading",
+        "please_wait": "Please wait",
+        "deposit_status": "Deposit Status"
+    }
+}
