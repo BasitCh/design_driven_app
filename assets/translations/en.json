@@ -3,7 +3,7 @@
         "title": "Login",
         "email": "Email Address",
         "password": "Password",
-        "mainHeading": "Log into BlackBull Markets",
+        "mainHeading": "Log into Bull Markets",
         "google": "Google",
         "apple": "Apple",
         "checkBoxText": "Remember me",
@@ -191,7 +191,7 @@
         "main_refferal_site": "What is your main referral website URL or channel?",
         "brief_description_business": "Please give a brief description of your business.",
         "provide_info": "Provide information",
-        "provide_info_desc": "Provide information regarding how will you publicly represent BlackBull Markets. Specifically, please provide links to all of the websites or social media accounts or other channels you will use.",
+        "provide_info_desc": "Provide information regarding how will you publicly represent Bull Markets. Specifically, please provide links to all of the websites or social media accounts or other channels you will use.",
         "type_url": "Type URL",
         "description": "Description"
     },
